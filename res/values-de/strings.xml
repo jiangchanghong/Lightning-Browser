@@ -55,6 +55,6 @@
     <string name="stock_browser_available">(Unterstützter Standardbrowser gefunden)</string>
     <string name="fullScreenOption">Statusleiste beim Surfen ausblenden</string>
     <string name="clear_cookies">Cookies löschen</string>
-    <string name="gestures">Gesten für 'Vor' und 'Zurück' aktivieren</string>
+    <string name="gestures">Gestenaktivieren</string>
 
 </resources>

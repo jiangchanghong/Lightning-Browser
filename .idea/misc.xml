@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../android-async-http" value="1388052030927" />
+        <entry key="$PROJECT_DIR$/../my_tomdroid" value="1389339336008" />
+        <entry key="F:/eeeeeeeeeeeeeeeeeeeeeeeeeee/mygit" value="1387969714660" />
+        <entry key="F:/eeeeeeeeeeeeeeeeeeeeeeeeeee/tut-rest" value="1386950049726" />
+        <entry key="F:/eeeeeeeeeeeeeeeeeeeeeeeeeee/tut-web/5/complete" value="1387034366406" />
+        <entry key="F:/eeeeeeeeeeeeeeeeeeeeeeeeeee/tut-web/6/complete" value="1386945308779" />
+        <entry key="F:/workspace/spring-framework" value="1386997578558" />
+        <entry key="G:/baiduyundownload/我的工程gradle1215" value="1387097310458" />
+        <entry key="G:/baiduyundownload/我的工程gradle1215(1)/我的工程gradle1215" value="1387114585698" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="Android API 19 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>spring-4.0.0-sources</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 19 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
